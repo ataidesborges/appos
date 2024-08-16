@@ -1,17 +1,3 @@
-
-![appos](https://raw.githubusercontent.com/ataides/appos/master/assets/img/logo.png)
-
-![version](https://img.shields.io/badge/version-4.47.0-blue.svg?longCache=true&style=flat-square)
-![license](https://img.shields.io/badge/license-MIT-green.svg?longCache=true&style=flat-square)
-![theme](https://img.shields.io/badge/theme-Matrix--Admin-lightgrey.svg?longCache=true&style=flat-square)
-![issues](https://img.shields.io/github/issues/ataides/appos.svg?longCache=true&style=flat-square)
-![contributors](https://img.shields.io/github/contributors/ataides/appos.svg?longCache=true&style=flat-square)
-
-### Contato: contato@appos.com.br
-### [Feedback](https://github.com/ataides/appos/discussions) - Vote ou sugira melhorias
-
-![app-os](https://raw.githubusercontent.com/ataides/appos/master/docs/dashboard.png)
-
 ### [Instalação](Instalacao_xampp_windows.md)
 
 1. Faça o download dos arquivos.
