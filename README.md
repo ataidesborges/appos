@@ -1,16 +1,16 @@
 
-![appos](https://raw.githubusercontent.com/ataidesborges/appos/master/assets/img/logo.png)
+![appos](https://raw.githubusercontent.com/ataides/appos/master/assets/img/logo.png)
 
 ![version](https://img.shields.io/badge/version-4.47.0-blue.svg?longCache=true&style=flat-square)
 ![license](https://img.shields.io/badge/license-MIT-green.svg?longCache=true&style=flat-square)
 ![theme](https://img.shields.io/badge/theme-Matrix--Admin-lightgrey.svg?longCache=true&style=flat-square)
-![issues](https://img.shields.io/github/issues/ataidesborges/appos.svg?longCache=true&style=flat-square)
-![contributors](https://img.shields.io/github/contributors/ataidesborges/appos.svg?longCache=true&style=flat-square)
+![issues](https://img.shields.io/github/issues/ataides/appos.svg?longCache=true&style=flat-square)
+![contributors](https://img.shields.io/github/contributors/ataides/appos.svg?longCache=true&style=flat-square)
 
 ### Contato: contato@appos.com.br
-### [Feedback](https://github.com/ataidesborges/appos/discussions) - Vote ou sugira melhorias
+### [Feedback](https://github.com/ataides/appos/discussions) - Vote ou sugira melhorias
 
-![app-os](https://raw.githubusercontent.com/ataidesborges/appos/master/docs/dashboard.png)
+![app-os](https://raw.githubusercontent.com/ataides/appos/master/docs/dashboard.png)
 
 ### [Instalação](Instalacao_xampp_windows.md)
 
@@ -103,12 +103,6 @@ Tutorial Instalação: [https://youtu.be/NgXzzBB_2bM?si=FS_R2xq_W0Jnfn33](https:
 
 Para listar todos os comandos de terminal disponíveis, basta executar o comando `php index.php tools` a partir da raiz do projeto, após feita todo o processo de instalação.
 
-### Hospedagem Parceira
-Em parceria com o Projeto app-os as empresas SysmaTech e Gotek se uniram como SysGo para oferecer hospedagem de qualidade e suporte personalizado para usuários dos app-os com custo justo e confiabilidade.
-
-Solicite sua hospedagem agora [Clique Aqui!](https://sysgo.com.br/appos-github)
-
-<p><img src="https://sysgo.com.br/img-externo/appos-github.jpg" alt="SysGO - app-os Cloud Hosting" style="width:50%;"></p>
 
 ### Frameworks/Bibliotecas
 * [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
