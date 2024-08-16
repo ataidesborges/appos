@@ -191,12 +191,12 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/app-os/asaas-sdk.git",
+                "url": "https://github.com/map-os/asaas-sdk.git",
                 "reference": "f21b5dd0299c751afee0f230db1a6b6b05a15aba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/app-os/asaas-sdk/zipball/f21b5dd0299c751afee0f230db1a6b6b05a15aba",
+                "url": "https://api.github.com/repos/map-os/asaas-sdk/zipball/f21b5dd0299c751afee0f230db1a6b6b05a15aba",
                 "reference": "f21b5dd0299c751afee0f230db1a6b6b05a15aba",
                 "shasum": ""
             },
@@ -230,7 +230,7 @@
                 "Payment SaaS"
             ],
             "support": {
-                "source": "https://github.com/app-os/asaas-sdk/tree/master"
+                "source": "https://github.com/map-os/asaas-sdk/tree/master"
             },
             "time": "2022-03-03T00:18:19+00:00"
         },

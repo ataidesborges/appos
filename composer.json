@@ -36,7 +36,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/app-os/asaas-sdk"
+            "url": "https://github.com/map-os/asaas-sdk"
         }
     ]
 }
