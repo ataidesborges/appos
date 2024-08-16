@@ -46,7 +46,7 @@ URL: http://localhost:8000/
 Tutorial Instalação: [https://youtu.be/NgXzzBB_2bM?si=FS_R2xq_W0Jnfn33](https://www.youtube.com/watch?v=aZE-LW_YOE4)
 #### Windows 10/11
 1. Execute o Prompt de Comando ou PowerShell como Administrador;
-2. Execute o comando: `PowerShell -command "& { iwr https://raw.githubusercontent.com/ataides/appos/master/install.bat -OutFile appos_Install.bat }; .\appos_Install.bat"`
+2. Execute o comando: `PowerShell -command "& { iwr https://raw.githubusercontent.com/ataidesborges/appos/master/install.bat -OutFile appos_Install.bat }; .\appos_Install.bat"`
 3. Siga as instrunções na tela.
 
 #### Linux (Ubuntu/Debian)
