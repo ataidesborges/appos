@@ -1,8 +1,5 @@
-
-
 ### [Feedback](https://github.com/ataides/appos/discussions) - Vote ou sugira melhorias
 
-![app-os](https://raw.githubusercontent.com/ataides/appos/master/docs/dashboard.png)
 
 ### [Instalação](Instalacao_xampp_windows.md)
 
