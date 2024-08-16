@@ -78,8 +78,8 @@
                     "type": "custom"
                 },
                 {
-                    "url": "https://ko-fi.com/codemasher",
-                    "type": "ko_fi"
+                    "url": 
+                    "type": 
                 }
             ],
             "time": "2021-09-03T17:54:45+00:00"
@@ -140,8 +140,8 @@
                     "type": "custom"
                 },
                 {
-                    "url": "https://ko-fi.com/codemasher",
-                    "type": "ko_fi"
+                    "url": "",
+                    "type": ""
                 }
             ],
             "time": "2023-12-12T13:50:01+00:00"
