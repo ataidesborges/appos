@@ -30,7 +30,7 @@
 ![executar-xampp-ok](https://user-images.githubusercontent.com/17226802/82738728-563b8400-9d10-11ea-9e95-b0e2d8bf3390.jpg)
 
 
-3. AGORA BAIXE O appos ATRAVÉS DO LINK: https://github.com/ataides/appos/releases
+3. AGORA BAIXE O appos ATRAVÉS DO LINK: https://github.com/ataidesborges/appos/releases
 
 ![appos-down](https://user-images.githubusercontent.com/17226802/82736980-e9ba8800-9d03-11ea-8bf3-d3c10debd8c1.jpg)
 

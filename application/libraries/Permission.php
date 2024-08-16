@@ -9,8 +9,8 @@ if (! defined('BASEPATH')) {
  *
  * Biblioteca para controle de permissões
  *
- * @author      Ramon Silva
- * @copyright   Copyright (c) 2013, Ramon Silva.
+ * @author      Ataídes Borges
+ * @copyright   Copyright (c) 2013, Ataídes Borges.
  *
  * @since       Version 1.0
  * v... Visualizar

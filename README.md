@@ -1,16 +1,16 @@
 
-![appos](https://raw.githubusercontent.com/ataides/appos/master/assets/img/logo.png)
+![appos](https://raw.githubusercontent.com/ataidesborges/appos/master/assets/img/logo.png)
 
 ![version](https://img.shields.io/badge/version-4.47.0-blue.svg?longCache=true&style=flat-square)
 ![license](https://img.shields.io/badge/license-MIT-green.svg?longCache=true&style=flat-square)
 ![theme](https://img.shields.io/badge/theme-Matrix--Admin-lightgrey.svg?longCache=true&style=flat-square)
-![issues](https://img.shields.io/github/issues/ataides/appos.svg?longCache=true&style=flat-square)
-![contributors](https://img.shields.io/github/contributors/ataides/appos.svg?longCache=true&style=flat-square)
+![issues](https://img.shields.io/github/issues/ataidesborges/appos.svg?longCache=true&style=flat-square)
+![contributors](https://img.shields.io/github/contributors/ataidesborges/appos.svg?longCache=true&style=flat-square)
 
 ### Contato: contato@appos.com.br
-### [Feedback](https://github.com/ataides/appos/discussions) - Vote ou sugira melhorias
+### [Feedback](https://github.com/ataidesborges/appos/discussions) - Vote ou sugira melhorias
 
-![app-os](https://raw.githubusercontent.com/ataides/appos/master/docs/dashboard.png)
+![app-os](https://raw.githubusercontent.com/ataidesborges/appos/master/docs/dashboard.png)
 
 ### [Instalação](Instalacao_xampp_windows.md)
 
@@ -57,13 +57,13 @@ URL: http://localhost:8000/
 Tutorial Instalação: [https://youtu.be/NgXzzBB_2bM?si=FS_R2xq_W0Jnfn33](https://www.youtube.com/watch?v=aZE-LW_YOE4)
 #### Windows 10/11
 1. Execute o Prompt de Comando ou PowerShell como Administrador;
-2. Execute o comando: `PowerShell -command "& { iwr https://raw.githubusercontent.com/ataides/appos/master/install.bat -OutFile appos_Install.bat }; .\appos_Install.bat"`
+2. Execute o comando: `PowerShell -command "& { iwr https://raw.githubusercontent.com/ataidesborges/appos/master/install.bat -OutFile appos_Install.bat }; .\appos_Install.bat"`
 3. Siga as instrunções na tela.
 
 #### Linux (Ubuntu/Debian)
 1. Abra o Terminal ou acesse seu servidor via SSH;
 2. Eleve o privilégio aplicando `sudo su` (Recomendado);
-3. Execute o comando: `curl -o appos_Install.sh -L https://raw.githubusercontent.com/ataides/appos/master/install.sh && chmod +x appos_Install.sh && ./appos_Install.sh`
+3. Execute o comando: `curl -o appos_Install.sh -L https://raw.githubusercontent.com/ataidesborges/appos/master/install.sh && chmod +x appos_Install.sh && ./appos_Install.sh`
 4. Siga as instruções na tela.
 
 ### Atualização
@@ -123,20 +123,3 @@ Solicite sua hospedagem agora [Clique Aqui!](https://sysgo.com.br/appos-github)
 * PHP = 8.2
 * MySQL
 * Composer
-
-### Doações
-Gosta do appos e gostaria de contribuir com seu desenvolvimento?
-
-Doações podem ser realizadas nos links:
-* [catarse/appos](https://www.catarse.me/appos) - Mensal
-* [kofi/appos](https://ko-fi.com/appos) - Exporádica
-
-### Estrelas
-[![Estrelas](https://api.star-history.com/svg?repos=ataides/appos&type=Date)](https://star-history.com/#ataides/appos&Date)
-
-### Contribuidores
-[![Contribuidores](https://contrib.rocks/image?repo=ataides/appos)](https://github.com/ataides/appos/graphs/contributors)
-
-## Autor
-| [<img src="https://avatars.githubusercontent.com/ataides?s=115"><br><sub>Ramon Silva</sub>](https://github.com/ataides) |
-| :---: |

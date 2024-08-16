@@ -144,9 +144,9 @@ fi
         echo "* Baixando a ultima versao do projeto."
 
         if [ "$downappos" = "release" ]; then
-            wget --quiet --show-progress -O $dirDefault/appos.zip $(curl -s https://api.github.com/repos/ataides/appos/releases/latest | grep "zipball_url" | awk -F\" '{print $4}')
+            wget --quiet --show-progress -O $dirDefault/appos.zip $(curl -s https://api.github.com/repos/ataidesborges/appos/releases/latest | grep "zipball_url" | awk -F\" '{print $4}')
         elif [ "$downappos" = "master" ]; then
-            wget --quiet --show-progress -O $dirDefault/appos.zip https://github.com/ataides/appos/archive/refs/heads/master.zip
+            wget --quiet --show-progress -O $dirDefault/appos.zip https://github.com/ataidesborges/appos/archive/refs/heads/master.zip
         fi
         echo
         echo "* Extraindo projeto."

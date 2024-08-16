@@ -153,10 +153,10 @@ ECHO Verificando appos GitHUB
 IF EXIST "%dirDefault%\appos.zip" GOTO etapa0
 IF %downappos%==master (
     ECHO Baixando a versao MASTER
-    PowerShell -command "& { iwr https://github.com/ataides/appos/archive/refs/heads/master.zip -OutFile %dirDefault%\appos.zip }"
+    PowerShell -command "& { iwr https://github.com/ataidesborges/appos/archive/refs/heads/master.zip -OutFile %dirDefault%\appos.zip }"
 ) ELSE (
     ECHO Baixando a versao RELEASE
-    FOR /F "eol= tokens=2 delims=, " %%A IN (' cURL -s https://api.github.com/repos/ataides/appos/releases/latest ^| findstr /I /C:"zipball_url" ') DO PowerShell -command "& { iwr %%A -OutFile %dirDefault%\appos.zip }"
+    FOR /F "eol= tokens=2 delims=, " %%A IN (' cURL -s https://api.github.com/repos/ataidesborges/appos/releases/latest ^| findstr /I /C:"zipball_url" ') DO PowerShell -command "& { iwr %%A -OutFile %dirDefault%\appos.zip }"
 )
 GOTO etapa0
 :: <=== Fim Download de Dependências ===>

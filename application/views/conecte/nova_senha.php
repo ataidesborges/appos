@@ -106,8 +106,8 @@
 
     <!--Footer-part-->
     <div class="row-fluid">
-        <div id="footer" class="span12" style="padding: 10px"> <a class="pecolor" href="https://github.com/ataides/appos" target="_blank">
-                <?= date('Y') ?> &copy; Ramon Silva - <?php echo $this->config->item('app_name') ?> - Versão: <?= $this->config->item('app_version'); ?>
+        <div id="footer" class="span12" style="padding: 10px"> <a class="pecolor" href="https://github.com/ataidesborges/appos" target="_blank">
+                <?= date('Y') ?> &copy; Ataídes Borges - <?php echo $this->config->item('app_name') ?> - Versão: <?= $this->config->item('app_version'); ?>
             </a></div>
     </div>
 
