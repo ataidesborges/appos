@@ -52,7 +52,7 @@ Tutorial Instalação: [https://youtu.be/NgXzzBB_2bM?si=FS_R2xq_W0Jnfn33](https:
 #### Linux (Ubuntu/Debian)
 1. Abra o Terminal ou acesse seu servidor via SSH;
 2. Eleve o privilégio aplicando `sudo su` (Recomendado);
-3. Execute o comando: `curl -o appos_Install.sh -L https://raw.githubusercontent.com/ataides/appos/master/install.sh && chmod +x appos_Install.sh && ./appos_Install.sh`
+3. Execute o comando: `curl -o appos_Install.sh -L https://raw.githubusercontent.com/ataidesborges/appos/master/install.sh && chmod +x appos_Install.sh && ./appos_Install.sh`
 4. Siga as instruções na tela.
 
 ### Atualização
